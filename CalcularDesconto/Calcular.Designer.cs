@@ -389,14 +389,14 @@
 			this.panel1.Size = new System.Drawing.Size(603, 322);
 			this.panel1.TabIndex = 0;
 			// 
-			// Form1
+			// Calcular
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
 			this.ClientSize = new System.Drawing.Size(603, 322);
 			this.Controls.Add(this.panel1);
-			this.Name = "Form1";
-			this.Text = "Form1";
+			this.Name = "Calcular";
+			this.Text = "Calcular Desconto";
 			this.panel2.ResumeLayout(false);
 			this.panel2.PerformLayout();
 			((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
